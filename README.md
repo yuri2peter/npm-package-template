@@ -4,6 +4,8 @@
 mylibs 指包名，实际使用请替换为正确的包名。
 以下内容以 mylibs 为例。
 
+> 如果开发的是React组件，[yuri2peter/npm-react-template](https://github.com/yuri2peter/npm-react-template)可能更适合你。
+
 ## 安装
 
 `npm i mylibs`
